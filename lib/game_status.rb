@@ -5,3 +5,4 @@ end
 
 # Define your WIN_COMBINATIONS constant
 WIN_COMBINATIONS.each {|win_combo|
+index_0 = 
