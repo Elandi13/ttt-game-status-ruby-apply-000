@@ -9,4 +9,4 @@ index_0 = win_combo[0]
 index_1 = win_combo[1]
 index_2 = win_combo[2]
 
-postion_1 
+postion_1 = board[index 1]
