@@ -4,4 +4,4 @@ def position_taken?(board, index)
 end
 
 # Define your WIN_COMBINATIONS constant
-WIN_COMBINATIONS.each {|win
+WIN_COMBINATIONS.each {|win_combo|
