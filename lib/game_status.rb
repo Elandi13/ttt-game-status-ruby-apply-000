@@ -12,3 +12,5 @@ index_2 = win_combo[2]
 position_1 = board[index_0]
 position_2 = board[index_1]
 position_3 = board[index_2]
+
+if position 1 
